@@ -46,9 +46,6 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   min-height: 240px;
   padding-bottom: 40px;
 }
-.articlePageHeaderWrapper img{
-  opacity: 0.1;
-}
 .articlePageHeaderWrapper h1{
   color: rgb(0, 0, 128);
   margin: 0 auto;
