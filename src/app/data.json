@@ -1,7 +1,7 @@
 [
     {
       "id": "article-one",
-      "title": "Article One: First Fake Article",
+      "title": "Article One: Huddle For The Winter",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -26,14 +26,14 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15231691/453801468.0.0.1421786380.jpg?quality=90&strip=all&crop=0,10.658234939579,100,78.683530120842",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
     },
     {
       "id": "article-two",
-      "title": "Article Two: Another Fake Article",
+      "title": "Article Two: Pesto Makes His Grand Entrance",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -58,14 +58,14 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://www.tomorrowsworldtoday.com/wp-content/uploads/2024/09/Pesto-the-king-penguin-at-Melbournes-Sea-Life-Aquarium-Photo-SEA-LIFE-Melbourne.png",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
     },
     {
       "id": "article-three",
-      "title": "Making Another Article Here",
+      "title": "The Penguins of Madagascar are Back",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -90,14 +90,14 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://www.dreamworks.com/storage/movies/penguins-of-madagascar/gallery/penguins-of-madagascar-gallery-3.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
     },
     {
       "id": "article-four",
-      "title": "Sample Article: Another Article",
+      "title": "Sample Article: Wheezy Gets Offended",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -122,14 +122,14 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://uploads.dailydot.com/2024/09/sad-penguin.jpg?auto=compress&fm=pjpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
     },
     {
       "id": "article-five",
-      "title": "Wow! A Fifth Article Already",
+      "title": "Wow! Feathers McGraw Pleads Guilty!",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -154,14 +154,14 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://static.independent.co.uk/2024/06/06/18/01HZPHWW5EKVKAZVZ1HGAC1P8S.jpg",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
     },
     {
       "id": "article-six",
-      "title": "The Last Article: A Very Cool Fake Article",
+      "title": "The Last Article: The Penguin Family Dynamic",
       "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "articleText": [
         {
@@ -194,7 +194,7 @@
         }
       ],
       "image": {
-        "url": "https://via.placeholder.com/2000x1200",
+        "url": "https://i.guim.co.uk/img/media/657dcb2a614f51e8564eab31b474ef49fbfc4ff9/0_301_3522_2275/master/3522.jpg?width=700&quality=85&auto=format&fit=max&s=4989ed7149c510bac407fabf6c4ae2dd",
         "alt": "A placeholder image"
       },
       "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"

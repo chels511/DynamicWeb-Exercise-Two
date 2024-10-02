@@ -1,17 +1,27 @@
+
 .pageWrapper{
   margin: 0 auto;
   max-width: 840px;
 }
 .pageWrapper h1{
+  color: navy;
   margin-bottom: 40px;
-  font-size: 50px;
+  font-size: 70px;
 }
 .articleCardWrapper{
-  border: 1px solid black;
+  background-color: white;
+  border: 3px solid rgb(39, 62, 215);
+  border-radius: 20px;
+  color: navy;
   display: flex;
   gap: 20px;
   margin-bottom: 40px;
   padding: 20px;
+  transition: transform 0.3s ease; 
+}
+
+.articleCardWrapper:hover {
+  transform: scale(1.05); 
 }
 .articleCardWrapper img{
   height: auto;
@@ -26,4 +36,58 @@
 }
 .articleCardText a{
   color: blue;
+}
+.articleCardDate {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.articlePageHeaderWrapper{
+  background-color: lightgrey;
+  background-size: cover;
+  min-height: 240px;
+  padding-bottom: 40px;
+}
+.articlePageHeaderWrapper img{
+  opacity: 0.1;
+}
+.articlePageHeaderWrapper h1{
+  color: rgb(0, 0, 128);
+  margin: 0 auto;
+  max-width: 590px;
+  font-size: 60px;
+  text-shadow: 3px 3px white;
+}
+.articlePageHeaderWrapper p{
+  color: rgb(0, 0, 128);
+  margin: 0 auto;
+  max-width: 590px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 1px 1px white;
+}
+.articleDayWrapper{
+  margin: 0 auto;
+  max-width: 590px;
+  font-size: 20px;
+  padding-top: 20px;
+}
+.articleTextWrapper{
+  color: navy;
+  margin: 0 auto;
+  max-width: 590px;
+  padding-top: 60px;
+}
+.articleTextWrapper p{
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+.articleTextWrapper h2{
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+.articleTextWrapper h3{
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 16px;
 }
